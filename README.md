@@ -1,2 +1,2 @@
 # myCLI
-good enough   ¯\_(ツ)_/¯
+good enough   ¯\\_(ツ)_/¯
